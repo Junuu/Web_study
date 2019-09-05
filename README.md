@@ -4,13 +4,11 @@
 2. Back-End(Node.js 공부예정)
 
 
-
 <h2>프로젝트 내용</h2>
--  [오버워치 계산기 홈페이지](https://junwoo.tk) 의 [깃허브 주소](https://github.com/Junuu/Overwatch_Calculator_Web)
 
--  쇼핑몰 홈페이지 제작
+[오버워치 계산기 홈페이지](https://junwoo.tk)의 [깃허브 주소](https://github.com/Junuu/Overwatch_Calculator_Web)
 
-- 세부 기능 계획 예정
+쇼핑몰 홈페이지 제작
 
 
 <h3>일정관리 프로그램을 사용하여 관리할 예정(에스메모)</h3>
