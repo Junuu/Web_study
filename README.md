@@ -6,8 +6,7 @@
 
 
 <h2>프로젝트 내용</h2>
-
--  [오버워치 계산기 홈페이지](junwoo.tk) 의 [깃허브 주소](https://github.com/Junuu/Overwatch_Calculator_Web)
+-  [오버워치 계산기 홈페이지](https://junwoo.tk) 의 [깃허브 주소](https://github.com/Junuu/Overwatch_Calculator_Web)
 
 -  쇼핑몰 홈페이지 제작
 
