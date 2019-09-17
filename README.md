@@ -8,7 +8,7 @@
 
 [오버워치 계산기 홈페이지](https://junuu.github.io/Overwatch_Calculator_Web/)의 [깃허브 주소](https://github.com/Junuu/Overwatch_Calculator_Web)
 
-쇼핑몰 홈페이지 제작
+쇼핑몰 홈페이지의 [깃허브 주소](https://github.com/Junuu/shopping_mall)
 
 
 <h3>일정관리 프로그램을 사용하여 관리할 예정(에스메모)</h3>
